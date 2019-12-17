@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+h1 {
+    background-color: rgba(2, 165, 230, 0.767);
+    color: rgb(17, 0, 255);
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+}
+p {
+    color: royalblue;
+}
