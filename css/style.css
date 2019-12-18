@@ -10,8 +10,16 @@ h1 {
     
 }
 h2 {
+    color: rgb(17, 0, 255);
     text-align: center;
 }
-p {
-    color: royalblue;
+a:link {
+    color: teal;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: teal;
 }
